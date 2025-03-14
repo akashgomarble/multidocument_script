@@ -10,7 +10,7 @@ from typing import Dict, List, Union
 import docx
 import PyPDF2
 import tempfile
-from google.cloud import genai
+from google-cloud import genai
 import uuid
 
 # Load environment variables
