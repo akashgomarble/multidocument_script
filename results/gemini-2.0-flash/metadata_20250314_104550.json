@@ -1,0 +1,13 @@
+{
+  "model": "gemini-2.0-flash",
+  "model_name": "Gemini 2.0 Flash",
+  "timestamp": "20250314_104550",
+  "document_counts": {
+    "marketing": 2,
+    "hooks": 4,
+    "scripts": 3,
+    "products": 4
+  },
+  "used_custom_prompt": false,
+  "prompt_template": "\nI need **10 performance marketing creative briefs** for Eskiin, with the following details:\n\n#### **Key Components for Each Brief:**\n1. **Elevator Pitch of Script Idea** \u2013 A concise summary of the ad's core message.\n2. **Intended Length** \u2013 Duration of the ad (30-90 seconds, max 3 mins).\n3. **Talent POV** \u2013 Who is speaking? (e.g., Founder, Employee, Female Influencer/Customer, Male Influencer/Customer).\n4. **Production Style** \u2013 Type of content (e.g., UGC, Talking Head + Voice Over, B-Roll + Voice Over, B-Roll Only, etc.).\n5. **Editing Style** \u2013 Format of the edit (e.g., Educational, Social Proof, Listicle, Organic TH, etc.).\n6. **Problem/Solution Marketing Framework** \u2013 How the ad presents a problem and its solution.\n7. **Brand Talking Points** \u2013 Key messages that must be included.\n8. **Intended Awareness Phase** \u2013 Which part of the customer journey the ad targets.\n9. **Customer Persona** \u2013 The target audience for this ad.\n10. **Winning Ad Transcripts** \u2013 A structured breakdown of the ad.\n\n#### **Output Structure for Each Brief:**\n1. **Main Script in Table Format**  \n   - **Audio** (Voiceover or dialogue)  \n   - **Visual** (On-screen elements, B-roll, or scene descriptions)  \n\n2. **Hook Variations:**  \n   - **Three Unique Hook Visuals**  \n   - **Three Unique Hook Headlines**  \n\n3. **Debrief Analysis:**  \n   - **Script Name** \u2013 Follows the correct naming convention (Template in Google Drive).  \n   - **Hook Breakdown** \u2013 Three hooks and corresponding visuals (formatted appropriately).  \n   - **Awareness Phase Breakdown** \u2013 Explanation of how the ad aligns with a specific phase and messaging strategies.  \n   - **Ad Length** \u2013 Duration of the ad.  \n   - **Ad Type** \u2013 Talking Head (TH), Voice Over (VO), or Static.  \n   - **Editing Style** \u2013 (Educational, Listicle, Social Proof, Organic, VSL, etc.).  \n   - **Call-To-Action (CTA)** \u2013 The CTA used in the ad.  \n   - **Key Messaging** \u2013 Core brand talking points covered in the ad.  \n\n#### **Additional Requirements:**\n- **Each video should not exceed 3 minutes.**  \n- **Most ads will be 30-90 seconds long.**  \n- **Each ad must include:**  \n  - **Three unique hook headlines.**  \n  - **Three unique scroll-stopping visuals.** \n"
+}

@@ -1,0 +1,397 @@
+Okay, I'll analyze the provided documents and create 10 performance marketing creative briefs as requested. I'll focus on using the provided hooks effectively, aligning content with the different awareness stages, and highlighting the Eskiin brand's value proposition.
+
+Here's the structure I'll follow for each brief:
+
+**Creative Brief: [Ad Title]**
+
+*   **Elevator Pitch:** \[A concise summary of the ad's core message.]
+*   **Intended Length:** \[Duration in seconds/minutes]
+*   **Talent POV:** \[Who is speaking? Founder, Customer, etc.]
+*   **Production Style:** \[UGC, Talking Head, etc.]
+*   **Editing Style:** \[Educational, Listicle, etc.]
+*   **Problem/Solution:** \[How the ad frames the problem and solution.]
+*   **Brand Talking Points:** \[Key Eskiin messages.]
+*   **Intended Awareness Phase:** \[Unaware, Problem Aware, etc.]
+*   **Customer Persona:** \[e.g., Kim, James, Emily (or general demographics)]
+
+**Main Script**
+
+| Time  | Audio                                                                                                                                      | Visual                                                                                                   |
+| :---- | :----------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
+|       |                                                                                                                                            |                                                                                                          |
+
+**Hook Variations:**
+
+*   **Hook 1 Headline:** \[TikTok-style hook headline]
+*   **Hook 1 Visual:** \[Description of a visually striking scene]
+*   **Hook 2 Headline:** \[TikTok-style hook headline]
+*   **Hook 2 Visual:** \[Description of a visually striking scene]
+*   **Hook 3 Headline:** \[TikTok-style hook headline]
+*   **Hook 3 Visual:** \[Description of a visually striking scene]
+
+**Debrief Analysis:**
+
+*   **Script Name:** \[Ad title]
+*   **Hook Breakdown:** \[Analysis of the hooks and visuals]
+*   **Awareness Phase Breakdown:** \[Analysis of the ad's awareness stage focus.]
+*   **Ad Length:** \[Actual ad duration]
+*   **Ad Type:** \[Talking Head, Voice Over, Static, etc.]
+*   **Editing Style:** \[Educational, Listicle, Social Proof, Organic, VSL, etc.]
+*   **Call-To-Action (CTA):** \[Specific CTA used in the ad]
+*   **Key Messaging:** \[Summary of core brand messages]
+
+---
+
+**Creative Brief #1: The Hidden Toxins (Leveraging Existing Ad Frameworks)**
+
+*   **Elevator Pitch:** A shocking reveal of the harmful substances hiding in your shower water and how Eskiin provides a clean, spa-like escape.
+*   **Intended Length:** 60 seconds
+*   **Talent POV:** Non-Founder
+*   **Production Style:** UGC Style with Green screen and b-roll
+*   **Editing Style:** Educational, Demonstration
+*   **Problem/Solution:** Hard water and unfiltered water damage skin and hair. Eskiin eliminates harmful contaminants.
+*   **Brand Talking Points:** 15-layer filter, remove heavy metals, chlorine, gives 2.5x water pressure
+*   **Intended Awareness Phase:** Problem Aware
+*   **Customer Persona:** Kim, the Confident Gen X Female (45-54 years old)
+
+**Main Script**
+
+| Time      | Audio                                                                                                                                                                                                                                                               | Visual                                                                                                                                |
+| :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------ |
+| **0:00-0:03** | [Non-Founder] "Would you drink this?" (Sound of pouring water)   This is tap water. But it's NOT the grossest thing you're exposed to everyday...""        | Close-up of clear water pouring into a glass, cut to an extreme close up of rust and grime.           |
+| **0:04-0:10** | [VO] "This is what might be coming out of your shower head right now... You can't see it, but it's there and it is damaging the f*** out of your skin and hair causing things like itchiness dryness hair loss and so much more.                                                                                                                            | Extreme close-up of a rusty showerhead being removed, revealing a build-up of grime. Cut to time lapses of dull, dry skin, and frizzy hair     |
+| **0:11-0:20** | [Non-Founder] “That's exactly why Eskiin Showerheads were invented, we take tap water from that (point to the dirty water source) and turn it into THIS (point to clean bottle) It's one of the most affordable ways to completely transform your every single day."                                                                      | Cut to a shot of someone installing the Eskiin showerhead in seconds. Cut to B-roll footage of someone using the showerhead, showing the clean water stream, smiling, radiant clean skin.     |
+| **0:21-0:30** | [VO] Eskiin's showerhead not only boasts the most powerful filtration with its 15 layered proprietary system, it also gives you 2.5X the water pressure of all the other filters out there. This means not only are you removing those gross impurities, you're also getting an insanely amazing powerful shower"                                                                             | Split screen, side by side close up water pressure results, 
+.Cut to shots of the shower and people using it.  |
+| **0:31-0:40** | [Non-Founder] "It's viral for a reason...you've probably seen these all over TikTok. The water's cleaner, the pressure's crazy, and my skin and hair has never been healthier. What's not to love! Try the Eskin filtered showerhead today!" | Show quick cuts of 5 star reviews of Eskiin showerhead, with quick graphics showing 30 day guarantee in one corner and Limited Time FREE SHipping in the other. Cut back to person in video to finish video with sincere expression. |
+
+**Hook Variations:**
+
+*   **Hook 1 Headline:** "The Water in Your Shower is Secretly Ruining Your Skin & Hair."
+*   **Hook 1 Visual:** Shocking side-by-side: crystal-clear filtered water vs. murky unfiltered water.
+*   **Hook 2 Headline:** "I Had No Idea My Shower Water Was This Disgusting..."
+*   **Hook 2 Visual:** Close-up of rusty shower pipe interior.
+*   **Hook 3 Headline:** "Is YOUR Shower Water Damaging Your Skin? (Here's How to Check)"
+*   **Hook 3 Visual:** Person running a water test in their shower.
+
+**Debrief Analysis:**
+
+*   **Script Name:** Hidden Toxin Reveal
+*   **Hook Breakdown:** These hooks aim to immediately grab attention by exposing a hidden problem and creating a knowledge gap. The visuals reinforce the shocking reveal.
+*   **Awareness Phase Breakdown:** This ad targets the Problem Aware stage. It’s designed to take those who don't suspect their water is the source of their issues and make them aware of the possibility.
+*   **Ad Length:** 49 Seconds
+*   **Ad Type:** Talking Head (TH) + Voice Over (VO)
+*   **Editing Style:** Educational, Shock
+*   **Call-To-Action (CTA):** "Tap Below to Try the Eskin Filtered Showerhead."
+*   **Key Messaging:** The Eskin filtered showerhead cleans water, removes rust and metal, and helps solve skin problems.
+
+---
+
+**Creative Brief #2: 7-Day Challenge for Radiant Skin**
+
+*   **Elevator Pitch:** A 7-day challenge using the eskiin showerhead to achieve noticeably radiant skin, appealing to those seeking quick and visible results.
+*   **Intended Length:** 75 seconds
+*   **Talent POV:** Female Influencer/Customer
+*   **Production Style:** UGC
+*   **Editing Style:** Transformation, Social Proof
+*   **Problem/Solution:** Many women want to obtain better skin and hair and this is a quick an easy way to obtain that.
+*   **Brand Talking Points:** Easy 3-minute install, transform hair and skin overnight, guaranteed results
+*   **Intended Awareness Phase:** Solution Aware
+*   **Customer Persona:** Emily, the Ambitious Young Professional (24 years old)
+
+**Main Script**
+
+| Time      | Audio                                                                                                                                                                                                                                                                                                                         | Visual                                                                                                                                                                                                                                                                                                  |
+| :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0:00-0:03** | [Female Influencer]  "I'm about to show you how to transform your skin in just 7 days! Get ready to glow up."     | Influencer with camera on face, holding a phone and setting it up on the counter.  Cut to her taking a before picture of her skin. |
+| **0:04-0:10** | [Female Influencer] “First thing I did was toss out all of my old skincare products and install my Eskiin Showerhead in my shower, and just 3 minutes” | Shot of removing skincare products into garbage and tossing them out, and showing an Eskiin showerhead arriving in the mail to her apartment.  |
+| **0:11-0:20** | [VO] See if it was as easy to install as they claimed and BOOM, what do you know, less than 3 minutes.”        | Fast speed showing all the parts to be installed, cut to the finished product and water running to show it in action.  |
+| **0:21-0:30** | [Female Influencer] “For 7 days straight, all I did was wash my face with whatever cleanser I felt like at the time in the shower. Nothing else, and now lets see what happened”.       | Cut to montage of days in the shower for 7 days, doing simple task of washing face.                                                                                                |
+| **0:31-0:45** | [Female Influencer]  Okay I am back guys it has been 7 days... Can we get a close up here? Seriously what did I do before? My skin feels amazing and the redness has completely dissapated since Day 1. Oh and the best part?? I spent a whopping $0 on products this week!!! If that doesn't tell you this is worth it, I don't know what will" | Cut to clear image of her face with visible redness and pimples at the start and cut to image again after 7 days and show glowing radiant skin. |
+| **0:45-0:55** | [VO] It even says online the Eskinn Showerhead removes heavy metals and impurities which will help your skin, hair, and over wellbeing, but the facts are, the results are undeniable!                                                                               | Cut to social proof of the Eskiin Showerhead results.  |
+| **0:56-1:10** | [Female Influencer] You know what to do guys. 3,000 5-star reviews with a money back guarantee what is not to love!! Click that link below and save up to 25% off plus free shipping before they are gone! Run dont walk!!!!! "                      |  Clear shot of 5 star reviews, and quick and easy check out at the website.                           |
+
+**Hook Variations:**
+
+*   **Hook 1 Headline:** "7 Days to Radiant Skin? I Tried the Eskiin Challenge!"
+*   **Hook 1 Visual:** Before-and-after split screen of skin, hinting at a significant transformation.
+*   **Hook 2 Headline:** "Tired of Bad Skin Days? This Showerhead Changed Everything!"
+*   **Hook 2 Visual:** Frustrated face followed by a radiant smiling face.
+*   **Hook 3 Headline:** "I Ditched My Skincare Routine for 7 Days… Here’s What Happened!"
+*   **Hook 3 Visual:** A montage of high-end skincare products being thrown out.
+
+**Debrief Analysis:**
+
+*   **Script Name:** 7 Day Transformation
+*   **Hook Breakdown:** These hooks leverage curiosity and promise a quick skin transformation, appealing to immediate gratification. The visuals highlight the transformative potential.
+*   **Awareness Phase Breakdown:** Targets those in the Solution Aware phase, someone who has skin-care problems but has not tried this solution. They’re ready to try a new approach.
+*   **Ad Length:** 75 seconds
+*   **Ad Type:** UGC, talking head and voice over
+*   **Editing Style:** Transformation, Social Proof
+*   **Call-To-Action (CTA):** "Click that link below and save up to 25% off plus free shipping before they are gone! Run dont walk!!!!!
+*   **Key Messaging:** The Eskin filtered showerhead transforms skin in just seven days without skin-care products.
+---
+**Creative Brief #3: The Silent Home Wrecker**
+
+*   **Elevator Pitch:** This ad focuses on the hidden damage hard water causes to home appliances and plumbing, positioning Eskiin as a cost-effective protector for the entire home.
+*   **Intended Length:** 90 seconds
+*   **Talent POV:** Male Employee
+*   **Production Style:** Talking Head + B-Roll
+*   **Editing Style:** Fear-based awareness, demonstration
+*   **Problem/Solution:** Hard water ruins your appliances and causes expensive plumbing repairs. Eskiin protects your home and saves you money.
+*   **Brand Talking Points:** Proprietary 15-stage filtration, removes heavy metals and chlorine, 2.5x pressure
+*   **Intended Awareness Phase:** Problem Aware
+*   **Customer Persona:** James, The Budget Conscious Family Man (40 years old)
+
+**Main Script**
+
+| Time      | Audio                                                                                                                                                                                                                                                                                                                         | Visual                                                                                                                                                                                                                                                           |
+| :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **0:00-0:03** | [Male Employee] "Your shower isn’t just bad for your skin and hair, it can destroy your entire home!"               | Quick montage of water heater, washing machine, dishwasher, all with visible limescale buildup. |
+| **0:04-0:12** | [VO] It's an expensive nightmare! Hard water is a silent wrecker that corrodes pipes, reduces appliance efficiency, and racks up thousands in surprise repairs. Check out all of that gross build up inside of that rusted waterpipe! (shudder)""     | Close-up shot of the inside of a rusted pipe with mineral build-up, followed by escalating repair invoices.     |
+| **0:13-0:22** | [Male Employee] “Normal showerheads don’t do anything to protect you from this. BUT, that's where The Eskinn 15 layered filter shower head comes in, and it has 2.5X the water pressure"    |  Side-by-side comparison: a normal showerhead in disrepair and the new showerhead pristine in new condition.    |
+| **0:23-0:35** | [VO] The Eskinn helps you, it removes the hard water that is the source of all the other problems and it does that at a fraction of the cost of other water filters. With it's 15 layered filtration.       |  Product shot of clean water coming out of Eskiin showerhead. Slow-motion shot of a water stream.  |
+| **0:36-0:45** | [Male Employee] "We know you're going to love Eskinn, the best part of this is you can set this thing up in 5 minutes or less, and if you don't, it comes with a 30 day money back guarantee. " | Show the simple installation process with on-screen text instructions, "Ships Right to Your Home Fast", "Install in 5 Min or Less", "No Extra Tools Required!!", "Compatible with Every Shower in the USA!!". Show the money back guarantee in another corner.   |
+
+**Hook Variations:**
+
+*   **Hook 1 Headline:** "Hard Water is Secretly Destroying Your Home From the Inside Out."
+*   **Hook 1 Visual:** A house crumbling due to water damage, with the focus on pipes and appliances.
+*   **Hook 2 Headline:** "Your Showerhead is Costing You Thousands—Here's Why."
+*   **Hook 2 Visual:** Visual: Stack of bills relating to repairs
+*   **Hook 3 Headline:** "Think Your Water is Safe? What's Lurking in Your Pipes."
+*   **Hook 3 Visual:** Terrifying visual of slime and scale inside a pipe.
+
+**Debrief Analysis:**
+
+*   **Script Name:** Home Wrecker
+*   **Hook Breakdown:** This ad grabs attention by focusing on home protection and financial savings, appealing to a practical-minded audience.
+*   **Awareness Phase Breakdown:** This ad targets the Problem Aware phase. The messaging should show why clean water is a home investment.
+*   **Ad Length:** 45 seconds
+*   **Ad Type:** Talking Head + Voice Over
+*   **Editing Style:** Fear, demonstration, problem/solution
+*   **Call-To-Action (CTA):** "Make the switch today. Your water—and your home—will thank you."
+*   **Key Messaging:** Eskiin protects your home from hard water damage, save money on repairs, and is easy to install.
+
+---
+**Creative Brief #4: "Upgrade Your Water": Beauty and the East of Use**
+
+* **Elevator Pitch:** This ad showcases that a quick installation of the Eskiin filter allows for easy access to a spa-level shower and immediate better skin and hair. 
+* **Intended Length:** 75 seconds
+*   **Talent POV:** Female Customer/ Hair Dresser
+*   **Production Style:** UGC, product demonstration, testimonial
+*   **Editing Style:** Organic, testimonial
+*   **Problem/Solution:** Show how the Eskin showerhead addresses these issues with beautiful results, making that first impression more powerful than ever.
+* **Brand Talking Points:** Highlight proprietary filtration, removes heavy metals and chlorine that damages skin, that there are thousands of real-life results that are guaranteed. 
+*   **Intended Awareness Phase:** Most Aware/Solution Aware
+* **Customer Persona:** High Profile Female
+
+**Main Script:**
+|Time|Audio|Visual|
+|--------------|--------------|--------------|
+|[00:00-00:03]| I'm obsessed with using the right tools to create the perfect hair, so check out this [product] and how it's going to make your hair that much more beautiful in just days!  |	quick cuts of products that are well known and used to get the best hair. 
+|[00:04-00:10]| I learned about this product from TikTok so had to get it, and I have never been so impressed with a product like this! I'm putting down a bunch of money a month and trying to come up with great results.	|Shot of tiktok showcasing product and different girls showcasing the product and raving about it, showcasing different people with all different kinds of hair.
+|[00:11-00:20]| "With just this install to The Eskin filtered shower head, check out this thing!" "Now all you need to do is screw this bad boy on and let it sit, and let it work its magic! You need to make sure your hair is looking great every single day.   |Show person installing product in 3 minutes. Quick close ups with slow moshowing how easy it is.
+|[00:21-00:30]| This is where you can say goodbye to breakage, hair loss, gross buildup on your shower head. Because you see, I've tried every product you can think of in the book, and not a single product fixed my problems at the root. 	|Visually showcase person showering, smiling, running hands through hair. Showing just how easy it to use, it's the same routine as any day. 
+|[00:31-00:40]| If you don't have the right water, you're screwed. All of your styling products and shampoos literally cannot perform how they're supposed to...   |Graphic appears on screen stating: hard water damage - 8 out of 10 people suffer from brittle and broken hair and red patchy skin. If you are experiencing any of this. Watch this video... |
+|[00:40-00:50]| So this is your sign people, just install an Eskin shower filter, and boom, you have completely changed your waters PH levels to allow your skin, hair, body, and everything to look more beautiful everyday. The benefits are insane. What are you waiting for?? Go get your own now and tag me in the video you make after trying it.      |Have a quick montage of different users on tiktok tagging the influencer sharing how the shower has turned their world around, and thanking them.|
+
+**Hook Variations:**
+
+*   **Hook 1 Headline:** "Hair Dresser EXPOSES Shocking Reason Your Hair is Unhealthy."
+*   **Hook 1 Visual:** Hair Dresser looking directly into the camera shaking head with hand and pointing at it, then looking shocked.
+*   **Hook 2 Headline:**"The ONE Thing No Hair Stylist Tells You...Until NOW"
+*   **Hook 2 Visual:** Hair dresser giving you a secret with a smirk.
+*   **Hook 3 Headline:** "TikTok Taught Me Something About My Shower and The Results Will Make Your Head Explode"
+*   **Hook 3 Visual:** Show tiktok video with influencer in shocked expression.
+
+**Debrief Analysis:**
+
+*   **Script Name:** Beauty upgrade
+*   **Hook Breakdown:** Catches attention fast, and hooks because she is a hair dresser
+*   **Awareness Phase Breakdown:** High level problem that provides easy fix, makes them feel the problem.
+*   **Ad Length:** 40 seconds
+*   **Ad Type:** User Generated Content + Voice Over
+*   **Editing Style:** Direct, Testimonial, Fast Cuts
+*   **Call-To-Action (CTA):** What are you waiting for?? Go get your own now and tag me in the video you make after trying it.
+*   **Key Messaging:** The Eskin shower filters can take that problem out of your daily life, and add value every time you turn on the tap.
+
+---
+
+**Creative Brief #5: Before and After Black and White Tone"**
+
+*   **Elevator Pitch:** Use vintage aesthetic showing customer with troubled skin. The solution is clean Eskin water. 
+*   **Intended Length:** 48 seconds
+*   **Talent POV:** Non-Founder
+*   **Production Style:** Transformation, Testimonial
+*   **Editing Style:** UGC, before and after, dramatic reveal
+*   **Problem/Solution:** Show Before and after what happened and use the products to help you achieve
+*   **Brand Talking Points:** Easy 3-minute install, transform hair and skin overnight, money back guarantee, thousands of 5-star reviews.
+*   **Intended Awareness Phase:** High Profile Female / Solution Aware
+* **Customer Persona:** Problem solver / high value product
+
+**Main Script**
+
+|Time	|Audio|Visual|
+|--------------|--------------|--------------|
+|00:00-00:03| " I have had this condition for years, and now after using The Eskinn shower head for just 30 days, here is the transformation, it has given me."   |Shot of a close up of their skin and all kinds of different skincare problems in different areas and how they used product to alleviate it. |
+|00:04-00:10|The old me did't even know clean, pure water was all I needed and not to waste all kinds of money and products on things that would not work!"|Show them taking garbage bag and throwing away all kinds of skincare products that did not work or help at all, frustrated expression on their face.	|
+|00:11-00:20| VO "After all those years with all the best products out there and nothing happening...here was what happens when you filter the nasty water out.| Show them walking into shower and install Eskiin.
+|00:21-00:30|Show now beautiful transformation and them now being able to go out.	VO ""All you need to do is put these two things to work...and all the problems that were years ago now, turn overnight. It works every time." Quick shots of all different things in the beauty industry that do not work as well.
+|00:31-00:48|  Now this is me" show side by side comparison with date and time, "Skin clean, life's good, the shower had was literally all I needed... click below now" and do all that with a 30 day satisfaction guaranteed"	Show the new skin glowing, clear clean with quick shot going to their face now to show it up close.|
+
+**Hook Variations:**
+
+*   **Hook 1 Headline:** "Years of This Skin Condition...Gone in 30 Days."
+*   **Hook 1 Visual:** Black and white with sad expression followed with after side by side.
+*   **Hook 2 Headline:** "I Wasted $$$ on Skincare Until I Discovered THIS."
+*   **Hook 2 Visual:** Montage showing the money being lost.
+*   **Hook 3 Headline:** "Hairstylist Approved The Best Way To Get The Best Skin and Hair"
+*   **Hook 3 Visual:** Montage with hair stylist approving different brands and products.
+
+**Debrief Analysis:**
+
+*   **Script Name:** B and A Skin Transformation
+*   **Hook Breakdown:** Leverages transformation. 
+*   **Awareness Phase Breakdown:** Targets High Profile / Product Aware
+*   **Ad Length:** 48 Seconds
+*   **Ad Type:** Testimonial and UGC
+*   **Editing Style:** Before and After, and Direct
+*   **Call-To-Action (CTA):** "Click below now" and do all that with a 30-day satisfaction guaranteed"
+*   **Key Messaging:** The Eskin filters can take that problem out of your daily life, and add value every time you turn on the tap.
+
+---
+
+**Creative Brief #6: Real People**
+
+*   **Elevator Pitch:** The ad highlights what real people are now saying on TikTok about Eskiin.
+*   **Intended Length:** 52 seconds
+*   **Talent POV:** Non-Founder
+*   **Production Style:** Social Proof
+*   **Editing Style:** Tik Tok
+*   **Problem/Solution:** It is important to know that other people find value in the product, more five star reviews.
+*   **Brand Talking Points:** Show actual product that others found to help
+*   **Intended Awareness Phase:**  Product Aware
+*   **Customer Persona:** High Profile female
+
+**Main Script**
+
+|Time|Audio|Visual|
+|--------------|--------------|--------------|
+|00:00-00:03|Guys have you seen tiktok today?? No|Montage of different faces reacting NO NO
+|00:04-00:10|Its not great and now I want to show you why|Cut to a shot of person showing what she has to share
+|00:11-00:20|I am literally not paid to say this because I have only purchased this with my own money!|Show receipt of purchased items
+|00:21-00:30|This solved the biggest problem with getting all these great products!|Show her skincare regiment that is always the best
+|00:31-00:40| If you look at this problem for years and this completely saved me|Cut to what was years ago and look how good it is now. It really turned around
+|00:40-00:50| All of you deserve this. Stop hesitating and thinking it won't happen to you! With the money back guarantee and now you cant say no. |Close with look at product and look back with sincerity.
+
+**Hook Variations:**
+
+*   **Hook 1 Headline:** "Tiktok Has Been Lying To YOU??"
+*   **Hook 1 Visual:** The look at the camera followed by surprised face then a gasp face
+*   **Hook 2 Headline:** "If You Buy Skin Care Products Then You Have To See This!!"
+*   **Hook 2 Visual:** Quick show of skincare products and then the reveal for the Eskiin
+*   **Hook 3 Headline:** " I Tried It So You Don't Have To Do ALL This!!"
+*   **Hook 3 Visual:** List of all the things that is recommended to fix your skincare problems, then cut and follow up.
+
+**Debrief Analysis:**
+
+*   **Script Name:** Testimonial Reel
+*   **Hook Breakdown:** Catchy visual grabs you while TikTok comment draws you in with relatable problems
+*   **Awareness Phase Breakdown:** targets all high-profile individuals who are willing to showcase and show people who they actually are and what they use to get there. 
+*   **Ad Length:** 52 Seconds
+*   **Ad Type:** Talking head
+*   **Editing Style:** Direct Testimonial, with 
+*   **Call-To-Action (CTA):** "Click this, you Deserve This"
+*   **Key Messaging:** The Eskin product will allow you to be worry free.
+
+---
+
+**Creative Brief #7: The Pressure to Be You**
+
+*   **Elevator Pitch:** The ad touches on the emotional state of "just wanting to be myself and feel safe doing it" the Eskinn can help you reach that.
+*   **Intended Length:** 56 seconds
+*   **Talent POV:** Non-Founder
+*   **Production Style:** Social Proof
+*   **Editing Style:** Direct Testimonial, and UGC
+*   **Problem/Solution:** Wanting the audience to understand the feeling of freedom in being able to be them selves in great state, with the help of clean product / clean water. 
+*   **Brand Talking Points:** This is your day to shine! To do all that you want with the cleanest water ever! 
+*   **Intended Awareness Phase:** Most aware
+*   **Customer Persona:** High Profile female
+
+**Main Script**
+
+|Time	|Audio|Visual|
+|--------------|--------------|--------------|
+|00:00-00:03| If you're not taking care of yourself in a time like this...what are you doing?|Show a person in a black and white picture with a sad face and a concerned expression.|
+|00:04-00:10| That's why I created this and show other people that what they have is possible and give you access and power in how to do all you need to|Cut to shot of her building products and having a great time building and making products |
+|00:11-00:20|  Not one for fame, not one for this crazy game... but I'm trying to just be more me every day. I am taking the first steps to showing others how easy it is too| Show her happy being with family and friends, cut to people showing her love|
+|00:21-00:30|I was using harsh water with harsh chemicals without even knowing and did it. Now we have the Eskiin showhead to let me live.| Show her going into a spa with clear water.
+|00:31-00:40| This saves me. and now I can focus on what matters, being the greatest me. So here it goes world!|"Show the results and get excited as you run and jump to sky dance. "
+|00:40-00:56| With the Eskinn shower head, they are going to say YES!  There is not one reason they are not! They give you the value with money back and free product what do you want more! There was so much research into the top tier product!"| Quick show of value, quick cut on information|
+
+**Hook Variations:**
+
+*   **Hook 1 Headline:** " If You're Tired To Hear what the "media" wants you to do... This One Is For you"
+*   **Hook 1 Visual:** Frustrated face shaking head left to right.
+*   **Hook 2 Headline:** " It is now time to make you your own person with Eskiin ShowerHeads!!
+*   **Hook 2 Visual:** Image of glowing skin and hair from using Eskinn product.
+*   **Hook 3 Headline:** If You Are Not Feeling Amazing... What are you waiting for!!"
+*   **Hook 3 Visual:** Follow with excited expression showing product.
+
+**Debrief Analysis:**
+
+*   **Script Name:** Personal Day with Eskiin
+*   **Hook Breakdown:** By being direct and to the point, allows this to draw in the customer by asking them what they should do to better themselves.
+*   **Awareness Phase Breakdown:** Great for all customers, this ad will show the product in a way that it can help anyone at any point.
+*   **Ad Length:** 56 Seconds
+*   **Ad Type:** UGC / social proof
+*   **Editing Style:** Fast, direct, and real.
+*   **Call-To-Action (CTA):** Quick shot of product and click, and you are on your way.
+*   **Key Messaging:** All is Possible, and there is not one reason not to.
+
+---
+
+**Creative Brief #8: Valentine’s Day Deal (Holiday Tie-In)**
+
+*   **Elevator Pitch:** With Valentine’s Day, The final thing you need is to make your partner glow and there is no easy way then this.
+*   **Intended Length:** 48 seconds
+*   **Talent POV:** Voice Over
+*   **Production Style:** Montage
+*   **Editing Style:** Quick
+*   **Problem/Solution:** It shows the love and value of gifting something that makes all the difference in every day routines.
+*   **Brand Talking Points:** 
+     - Proprietary 15-stage filtration, removes heavy metals and chlorine
+     - 2.5x water pressure guarantees stronger clean
+     - Ships right to your door and arrives in 3-5 days
+*   **Intended Awareness Phase:** Most Aware/Solution Aware
+*   **Customer Persona:** High Profile female
+
+**Main Script**
+
+|Time|Audio|Visual|
+|--------------|--------------|--------------|
+|00:00-00:03| The Day of LOVE is right around the corner are you ready|Cut in with quick hearts and roses going across the screen, then stop on beautiful couple looking at camera smirking.|
+|00:04-00:10| It should be super to see what the gifts you give her look like as well.	|Quick cuts with high price products. Make the viewers see the amounts.
+|00:11-00:20|That time is up. I will show you what is up!" It's a secret message time!|Cut to the "Secret Message" being that she deserves to feel her best with your help.
+|00:21-00:30| If they did that that would make your value sky rocket. All the love that is to be given. The one thing| Show it in action show the parts and the product, do quick review. Then showcase the results with the end clean and great.|
+|00:31-00:48| Click below with the 25% savings it is perfect. We know exactly what you wanted and now the love can make the test a part of their love"	 Show all the reviews and smiles, and make sure to keep the same color tone.
+
+**Hook Variations:**
+
+*   **Hook 1 Headline:**"Get All the LOVE when you add something Special"
+*   **Hook 1 Visual:** Slow moving shot of water being given as a gift.
+*   **Hook 2 Headline:**" Valentine's Day Is About to Make People Fall in Love With Water?"
+*   **Hook 2 Visual:** Hands pointing at you with excited expressions.
+*   **Hook 3 Headline:** "Last minute ideas for gifts here!"
+*   **Hook 3 Visual:** Montage of Valentine’s Day.
+
+**Debrief Analysis:**
+
+*   **Script Name:** Day of LOVE
+*   **Hook Breakdown:** Valentine's Day with its power to connect people to purchase.
+*   **Awareness Phase Breakdown:** Focus for High Value Profile, what they would like and they need!
+*   **Ad Length:** 48 Seconds
+*   **Ad Type:** UGC and Voice Over
+*   **Editing Style:** Direct
+*   **Call-To-Action (CTA):** With all this Love click below!

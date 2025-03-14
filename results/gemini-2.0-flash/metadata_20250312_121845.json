@@ -1,0 +1,12 @@
+{
+  "model": "gemini-2.0-flash",
+  "model_name": "Gemini 2.0 Flash",
+  "timestamp": "20250312_121845",
+  "document_counts": {
+    "marketing": 2,
+    "hooks": 4,
+    "scripts": 3,
+    "products": 4
+  },
+  "used_custom_prompt": false
+}

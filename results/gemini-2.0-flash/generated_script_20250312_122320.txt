@@ -1,0 +1,300 @@
+Okay, here are 10 performance marketing creative briefs for Eskiin, incorporating the details you requested.  I've focused on leveraging the provided documents, especially "Breakthrough Advertising" for core marketing principles and "TikTok Hooks Mastery.pdf" for scroll-stopping hooks.  I've also analyzed the "Winning Transcripts" document for elements that have historically performed well for Eskiin.
+**Naming Convention:**  I will start each script title with "Eskiin_" followed by a descriptive name.
+
+**Brief 1:  Eskiin_TheEverydayDamage**
+*   **Elevator Pitch:**  A consumer is shown how regular shower water may be a source of ongoing harm to hair and skin without their knowledge.
+*   **Intended Length:** 60 seconds
+*   **Talent POV:** Female Customer
+*   **Production Style:** UGC
+*   **Editing Style:** Educational, relatable.
+*   **Problem/Solution Marketing Framework:** Highlights a previously unrecognized threat (chlorinated water) and positions Eskiin as a basic need, not just an upgrade.
+*   **Brand Talking Points:** Filtration, healthier skin & hair, easy install, 60-day guarantee.
+*   **Intended Awareness Phase:** Problem Aware
+*   **Customer Persona:** Gen X Female, Kim (convenience and efficiency)
+
+**1. Main Script in Table Format**
+
+| Time      | Audio                                                                                                                                                                                                                            | Visuals                                                                                                                                                                | Reasoning & Source Document  |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0:00-0:03 | **"I just learned that you're supposed to filter your shower water, and here's why..."**                                                                                                                            | Quick cuts of seemingly clean water turning murky when a chemical is added.    Followed by a shot of talent looking shocked.      | **Hook:** Curiosity + Implied Danger (TikTok Hooks Mastery.pdf). **Visual:** Pattern interrupt; shocking imagery (Wes_Winner_Non_Eskiin_JWS.txt, "Rusty pipe visual").  |
+| 0:03-0:15 | "I used to think my dry skin and frizzy hair were just...me. But then I discovered that tap water is full of chlorine and other chemicals that are terrible for your skin and hair!"                               | Close-up shots of frizzy hair and dry skin. Then split screen of clean clear filtered water from Eskin vs dirty unfiltered.                                                                | **Problem Agitation:** Agitate existing pain points (Customer Personas, skin & hair). Relatable scenario, detailed description (BreakthroughAdvertising.pdf - Intensification). |
+| 0:15-0:25 | "It's like you're washing your hair with bleach every single day! I couldn't believe it!"                                                                                                                                       | Visual metaphor:  A bottle of bleach is placed next to a showerhead.  Quick cuts of Google Search results on chlorine’s effects.              | **Problem Agitation/Redefinition:** Strong, memorable comparison (BreakthroughAdvertising.pdf - metaphorize the claim). Establish concern/urgency (Wes_Winner_Non_Eskiin_JWS.txt).   |
+| 0:25-0:35 | "That's when I found the Eskiin Filtered Showerhead. It filters out all those chemicals, and you can literally feel the difference after just one shower!"                                                           | Talent touches their smooth skin and healthy hair, looking genuinely impressed.     Show filter catching large debris after use.         | **Solution Introduction & Promise:**  Highlights immediate benefit. (Customer Personas, effortless beauty). Testimonial style and clear visible changes (REFERENCE_Eskiin_WinningTranscripts.docx)   |
+| 0:35-0:45 |  "It was SO easy to install – took like 2 minutes. But the best part is my skin is softer and my hair is actually growing again!"  "They literally will send your money back if you don't love it!"                                                            | Show quick installation process. Before & After shots of hair growth.   Visuals of the money back garuntee   | **Ease of Use + Results, Trust Building:**  Addressing potential objections. Social proof (Customer Personas; "Trust & Belonging").     Risk reversal increases conversion rates (REFERENCE_Eskiin_WinningTranscripts.docx). |
+| 0:45-0:55 | "Seriously, I wish I knew about this sooner! You have to try it!  They have free express shipping for a limited time. Link is below!"| Direct call to action with limited time incentives. Visual and text on-screen - ‘Shop now before it’s to late’.                                                                        | **Call to Action and Urgency:** Clear and concise (REFERENCE_Eskiin_WinningTranscripts.docx). Urgency with Sale mention (Customer Personas).          |
+
+**2. Hook Variations**
+*   **Unique Visuals:**
+
+    *   Timelapse of rust accumulating inside a clear pipe vs. clean water flowing through Eskiin.
+    *   A close-up shot of hair breaking off under magnification next to healthy hair.
+    *   Shot of talent looking distressed while rinsing off with what is implied to be chlorinated water in a old shower.
+*   **Unique Hook Headlines:**
+
+    *   "Is Your Shower Secretly Damaging Your Skin and Hair?"
+    *   "The SHOCKING Truth About Tap Water and Your Beauty."
+    *   "I Wish I Knew This BEFORE Ruining My Hair with Hard Water!"
+
+**3. Debrief Analysis**
+
+*   **Script Name:** Eskiin_TheEverydayDamage
+*   **Hook Breakdown:**
+    *   **Hook 1:** "Think your shower water is clean? Think again." - Disrupts expectation, uses visual to amplify shock.
+    *   **Hook 2:** Rusty pipe visual and contaminated water to build a problem.
+    *   **Hook 3:** Customer relates skin/hair damage.
+*   **Awareness Phase Breakdown:** Targets "Problem Aware" (eskiin Understanding Our Customer To Drive Growth.pdf). The ad assumes an existing problem and then creates awareness about the actual cause to create an immediate need.
+*   **Ad Length:** Under 60 seconds
+*   **Ad Type:** UGC
+*   **Editing Style:** Educational, Problem-focused, Testimonial
+*   **Call-To-Action (CTA):** "Tap the link below and try Eskiin today."
+*   **Key Messaging:** Harmful chemicals in water is the problem, Eskiin showerhead is the solution, It’s easy to install and see results
+
+---
+**Brief 2: Eskiin_ScaleCareSecret**
+*   **Elevator Pitch:** A male presenter connects shower water quality to grooming routine effectiveness, presenting Eskiin as an essential upgrade for modern men.
+*   **Intended Length:** 75 seconds
+*   **Talent POV:** Male Customer/Influencer
+*   **Production Style:** Talking Head + B-Roll
+*   **Editing Style:** A mix of educational facts and product demos.
+*   **Problem/Solution Marketing Framework:** Highlights the problem of low-quality shower water and presents Eskiin as a solution for skin/hair wellness, as well as home maintenance.
+*   **Brand Talking Points:** Rust, heavy metals, chlorine reduction, boosted water pressure, easy install, long filter life, clean shower and bathroom.
+*   **Intended Awareness Phase:** Problem Aware / Solution Aware
+*   **Customer Persona:** Budget Conscious Family Man James/ Gen X
+
+**1. Main Script in Table Format**
+
+| Time      | Audio                                                                                                                                                                                                         | Visuals                                                                                                                                                             | Reasoning & Source Document                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0:00-0:03 | **"Guys, did you know your shower water could be destroying your grooming routine?"**      | Talent looking directly at the camera, holding up grooming products (shaving cream, shampoo, etc.).                       | **Hook:** Direct, attention-grabbing question, targeting a male audience (TikTok Hooks Mastery.pdf). The image makes viewers pause and think  (Wes_Winner_Non_Eskiin_JWS.txt).                            |
+| 0:03-0:15 | "I never thought about it either, until I started seeing scale build up in the shower and having crazy dry skin and dandruff. Turns out, chlorine and hard water were to blame!"                  |  B-roll of scale buildup on shower tiles, close-up of flaky scalp, and water stains on shower glass.                                                                                   | **Problem Agitation:** Agitating specific pain points relatable to the target audience (Customer Personas, Budget Conscious Family Man).  Use of relatable pain points creates relevance and empathy (BreakthroughAdvertising.pdf - Intensification).     |
+| 0:15-0:25 | "Hard water isn't just bad for your skin. Those same minerals and metals wreck your appliances and cost you money!"                                                                                    | B-roll footage showing corroded pipes, failing washing machine, or water heater.  Cut to the person looking at a water bill.                                                                                  | **Problem Escalation:**  Expanding the problem beyond personal care, appealing to broader concerns (Security & Survival - eskiin Understanding Our Customer To Drive Growth.pdf). Justifies expense to the budget-conscious (Customer Personas)              |
+| 0:26-0:35 | "Thankfully, there's an easy fix: The Eskiin Filtered Showerhead.  It installs in minutes, and the 15-layer filter removes those damaging contaminants so you can save money and stop this damage!" | Show easy Eskiin installation. Montage of clean shower fixtures and appliances.              Filter removing junk in 2 mins.                                                                         | **Solution Introduction:** Positions Eskiin as the simple fix for a range of household and personal problems. Easy to install key in target market (Customer Personas.  Kim)                |
+| 0:36-0:45 |  "Since switching to Eskiin, my skin feels amazing, the shower stays cleaner, and I'm saving money on repairs."                                                                                       | Show happy talent showering. Before & After shots of the clean showerhead fixtures  and clean water (REFERENCE_Eskiin_WinningTranscripts.docx).                               | **Testimonial + Reinforcement:**  Show a personal transformation story with relatable, practical benefits (Social Proof & Belonging & self improvement eskiin Understanding Our Customer To Drive Growth.pdf)             |
+| 0:46-0:55 |  "Eskiin's so confident you'll love it, they offer a 60-day money-back guarantee. Tap the link and upgrade your shower today!"                                                                | End screen with Eskiin branding and discount, along with clear CTA "Learn More Now"         | **Call to Action with Risk Reversal:**  Strong CTA, builds consumer confidence (REFERENCE_Eskiin_WinningTranscripts.docx).           |
+
+**2. Hook Variations**
+*   **Unique Visuals:**
+    *   Time-lapse of scale building up inside a showerhead over time.
+    *   Side-by-side comparison of water quality before and after filtration, next to grooming products.
+    *   A concerned homeowner looking at a failing appliance and a water bill.
+*   **Unique Hook Headlines:**
+    *   "Is Your Shower Ruining Your Grooming Routine...and Your Home?"
+    *   "Men:  The #1 Secret to Better Skin and a Cleaner Bathroom."
+    *   "Stop the Hidden Damage of Your Shower Water – Here’s How."
+
+**3. Debrief Analysis**
+
+*   **Script Name:**  Eskiin_ScaleCareSecret
+*   **Hook Breakdown:**
+    *   **Hook 1:** Direct question engages male viewers. Visual of grooming products.
+    *   **Hook 2:** Scale buildup in shower and grooming issues.
+    *   **Hook 3:** Home damage, then savings to create relevance and desire.
+*   **Awareness Phase Breakdown:** Caters to a broader spectrum, from Problem Aware (bad water impacts home) to Solution Aware (seeking a grooming upgrade). Blend (Customer Personas).
+*   **Ad Length:** 75 seconds
+*   **Ad Type:** Talking Head + B-Roll
+*   **Editing Style:**  Educational with authentic product endorsement.
+*   **Call-To-Action (CTA):** "Tap the link and upgrade your shower today!"
+*   **Key Messaging:** Hard water damages skin, appliances, Eskiin solution, easy fix, money back garuntee
+
+---
+
+**Brief 3:  Eskiin_HairdresserSecret**
+*   **Elevator Pitch:** A professional hairdresser reveals the secret to extending the life of salon-quality hair, crediting Eskiin for her client's healthy results.
+*   **Intended Length:** 90 seconds
+*   **Talent POV:** Female Influencer/Professional Hairdresser (Lauren Talent)
+*   **Production Style:** UGC with professional credibility
+*   **Editing Style:** Advice / Tutorial.
+*   **Problem/Solution Marketing Framework:** This approach focuses on how Eskiin helps retain clients
+*   **Brand Talking Points:** Filtered water, better hair health, stronger color, boosted volume, easy home care, higher client rentention
+*   **Intended Awareness Phase:** Solution Aware
+*   **Customer Persona:** Gen X/Millennial, Kim (hair is primary focus and convenience matters)
+
+**1. Main Script in Table Format**
+
+| Time      | Audio                                                                                                                                                                                                                       | Visuals                                                                                                                                                                          | Reasoning & Source Document                                                                                                                                                                                                 |
+| --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0:00-0:03 | **"The secret to longer-lasting salon-quality hair isn't what you put *on* it... it's what you wash it *with*."**                                                                                           | Lauren, the hairdresser, smiling confidently in a professional salon setting, holding Eskiin Filtered Showerhead.  Clean water flowing.  | **Hook:** Counters expectation, immediately establishes expertise (TikTok Hooks Mastery.pdf). Credibility. (Reference the older female demographic and targetting in ref.docx) |
+| 0:03-0:15 | "As a hairdresser, I see so many clients with damaged hair. They are getting all of this expensive product buildup and damage but they come in and I can never fully fix them. Its water and I have just now clue them into it"      | Cut to before and afters - then shot of hair with and without build up to show a demo.                                                                                            |   **Expert Problem Introduction** Leverages professional credibility. Visual proof of the scale that they will see in the shower (Customer Personas)., Highlight problem for existing damage   |
+| 0:15-0:25 | "Hard water is full of chlorine and heavy metals that dry out your hair, fade your color, and leave it looking dull and lifeless. The build up is what hurts the most! You need to treat the root of the problem!."                 | Microscopic shots of hair cuticles damaged by hard water scale next to hair shaft damage  to illustrate her points with close ups.                  | **Explanation:** Provides technical expertise on water damage, solidifying expertise (BreakthroughAdvertising.pdf - Mechanization).    |
+| 0:25-0:35 | "That's why I started recommending the Eskiin Filtered Showerhead to all of my clients. It removes 99% of those nasties so you are no longer fighting a losing battle."                                                      | Transition to product in the shower - clean hair and skin glow. Talent (Lauren) is show washing with Eskiin showerhead.    | **Solution: **Position Eskiin as the simple fix for a professional endorsement (eskiin Understanding Our Customer To Drive Growth.pdf).   Easy to relate to (Customer Personas. Kim).            |
+| 0:35-0:45 | "Honestly, I've seen a HUGE difference in my clients’ hair. Their color lasts longer, it's shinier, easier to manage. The water feels great. Plus they are using so much less styling product in between appointments and it is not just to make you sell more things. It’s to give you healthy hair to begin with."  | Before and afters of her clients hair with sleek edits and transitions.  | **Direct Results & Added Value:** Demonstrates clear professional results through social proof. Highlight what benefits product (REFERENCE_Eskiin_WinningTranscripts.docx. Also uses testimonial  |
+| 0:45-0:55 | "And because I love it so much, I even use it at home.  It doubled my water pressure and my sister and I are obsessed. If you're looking for a real change you NEED this” . Tap the Link to shop. Now let’s get to the shampoo station! | Scene of Lauren with the Eskiin showerhead in her own bathroom.  Quick shot of sister using eskiin happily. Followed by a call to action and direct them to shop.  | **Conclusion/Personal Endorsement:** This gives even more backing to her recommendation. She’s using the product herself!  The sister bit helps get to multiple demographics.  Finally adds the most critical part to all is (eskiin Understanding Our Customer To Drive Growth.pdf) Call To Action & Urgency  |
+
+**2. Hook Variations**
+*   **Unique Visuals:**
+    *   Time-lapse of hair color fading with unfiltered water vs. vibrant color maintained with Eskiin.
+    *   Close-up of damaged hair follicles under a microscope, compared to healthy follicles.
+    *   Split-screen: one side featuring dull, limp hair and the other side showcasing vibrant, voluminous hair.
+*   **Unique Hook Headlines:**
+    *   "The #1 Hairdresser Secret You Need to Know."
+    *   "Is Your Shower Water Sabotaging Your Salon Visit?"
+    *   "Stop Washing Your Money Down the Drain - This Filter Can Help You Save!"
+
+**3. Debrief Analysis**
+*   **Script Name:** Eskiin_HairdresserSecret
+*   **Hook Breakdown:**
+    *   **Hook 1:** Disrupts expectation of where to find quality.
+    *   **Hook 2:** Professional insights from a known stylist.
+*   **Awareness Phase Breakdown:** Targets Solution Aware, with an emphasis on the brand
+*   **Ad Length:** 90 seconds
+*   **Ad Type:** UGC/Testimonial
+*   **Editing Style:** Professional Endorsement, advice
+*   **Call-To-Action (CTA):** "Tap the link to shop" and shop now.
+*   **Key Messaging:**
+Hard water is a problem for salon
+Eskiin can help.
+
+---
+**Brief 4:  Eskiin_HouseholdHydration.**
+*   **Elevator Pitch:** A family in need of a budget upgrade decides to upgrade water filtration to improve quality of life.
+*   **Intended Length:** 70 seconds
+*   **Talent POV:** Male Non-Influencer/Customer
+*   **Production Style:** A mix of narrative storytelling and product demo.
+*   **Editing Style:** Relatable story, budget conscious
+*   **Problem/Solution Marketing Framework:** Rust is the problem and must show it's bad and that Eskinn has a fix.
+*   **Brand Talking Points:** Affordability, high quality, clean water for the family and house, easy maintenance
+*   **Intended Awareness Phase:** Unaware/ Problem Aware
+*   **Customer Persona:** Budget Conscious Family Man James
+
+**1. Main Script in Table Format**
+
+| Time      | Audio                                                                                                                                                                                                                | Visuals                                                                                                                                        | Reasoning & Source Document  |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0:00-0:03 |  "Okay honey, times are tough for us, we need to upgrade some things like our tap water!"      | **Visuals:** **Shot of concerned dad with family.**                                                                 | **Hook:** Humorous and relatable intro (TikTok Hooks Mastery.pdf); highlights the need to save. (Wes_Winner_Non_Eskiin_JWS.txt)                            |
+| 0:03-0:15 |  "So today, we are switching out a lot of expensive shampoo and bottled water and are committing to clean filtered water and I’m here to tell you why we should all care more about our water." | **Visuals:** **Switch to B-roll:** Family is shown throwing out all their different bottled water brands.      Shot to B-roll from the pipes in house.                                  | **Problems** Emphasizing product value with solutions that the target customer segment would benefit from (Customer Personas, James). (REFERENCE_Eskiin_WinningTranscripts.docx - Social Proof)  |
+| 0:15-0:25 |  "I don’t think people realize, or understand, that the hard water building on our pipes is also going on our kids and wife's skin and it is only a matter of time before we have to go to urgent care."| **Visuals:** Show the effect of the unfiltered water from shower. Close ups of affected families skin and hair. | **Problem -** Use emotion of fear to amplify and create more trust. Tap into the need to believe and build trust to see long term results (BreakthroughAdvertising.pdf).                |
+| 0:26-0:35 | "We use Eskinn! The installation is super easy, the filters can be auto-delivered (auto bill). We will save a ton of money on doctors appointments and expensive soap because of it."              | **Visuals:** **Installation shown. Show easy replacement. Family using it and enjoying it.**                                | **Solution -** How the family can easily fix it with this tool for not a lot of money (Cost Concious Family Man James in Customer Personas). Easy install Key benefits (easy to apply) (Wes_Winner_Non_Eskiin_JWS.txt)    |
+| 0:36-0:45 |   "Not only will our pipes stay clean but our skin and hair will improve. It's a non-negotiable purchase and a game changer at my household."             | **Visuals:** **Have a happy family showing of soft hair and hydrated skin with a side by side.** Show clean shower head        | **Result** This segment showcases what results the viewers would see with continued use of Eskin (Security & Survival - eskiin Understanding Our Customer To Drive Growth.pdf)  |
+| 0:46-0:55 |  "So what are you waiting for? Save your home from hard water and use the link to shop now"                                                                                       | **Visuals:** **End with a clear CTA overlay, Eskiin branding, and show a link for the sale.**        | The call to action is strong, simple and uses direct address(REFERENCE_Eskiin_WinningTranscripts.docx).           |
+
+**2. Hook Variations**
+*   **Unique Visuals:**
+    *   Stop-motion of family throwing out all of their old ineffective soaps.
+    *   Fast cutting video of water and all the harm it causes to the family and then B roll the new healthy shower.
+    *   Family taking pictures with the Esikin.
+*   **Unique Hook Headlines:**
+    *   "Budget Upgrade Transformed Our Whole Family’s Health."
+    *   "Is Hard Water Costing You More Than You Think?"
+    *   "Protect Your Family & Your Home With This Easy Water Fix."
+
+**3. Debrief Analysis**
+*   **Script Name:** Eskiin_ScaleCareSecret
+*   **Hook Breakdown:**
+    *   **Hook 1:** This can benefit a family in multiple ways with clean water
+    *   **Hook 2:** What are the results and cost savings
+*   **Awareness Phase Breakdown:** Primarily for Unaware/Problem Aware, aiming to make link in the connection to problems + damage - blend (Customer Personas).
+*   **Ad Length:** 70 seconds
+*   **Ad Type:** UGC, Narrative
+*   **Editing Style:** Relatable
+*   **Call-To-Action (CTA):** "use the link to shop now"
+*   **Key Messaging:** Save your home from hard water, affordable option and benefits
+
+---
+**Brief 5: Eskiin_HairGrowthHacks**
+*   **Elevator Pitch:** A hairloss solution with a clean install.
+*   **Intended Length:** 75 seconds
+*   **Talent POV:** Female Influencer - Hair
+*   **Production Style:** Advice, how-to UGC.
+*   **Editing Style:** Professional Endorsement, advice
+*   **Problem/Solution Marketing Framework:** It can help a woman solve her hair loss and this is the problem that can be fixed today.
+*   **Brand Talking Points:** Better hair health, increased hair growth, all natural
+*   **Intended Awareness Phase:** Problem Aware / Solution Aware
+*   **Customer Persona:** Gen X/Millennial, Kim (hair is primary focus and convenience matters)
+
+**1. Main Script in Table Format**
+
+| Time      | Audio                                                                                                                                                                                                                                                                                                                                                                                       | Visuals                                                                                                                                                                               | Reasoning & Source Document                                                                                                                                                                                            |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0:00-0:03 | "Okays girlies listen up: This is your sign if your hair is falling out like crazy."        |   Show different types of hair that are falling down and a concerned look on the face. Clean it a bit up.      | The hook to get people to pay attention and also has quick cut to be a bit more attractive and clean (TikTok Hooks Mastery.pdf). The old demogrpahic of women will relate (Reference_Eskiin_WinningTranscripts.docx).                           |
+| 0:03-0:15 |  "I don't think people realize what your shampoo is doing to your hair! It is making you dependent! All because the water from our water lines are no good! You need to get better!"              | Show before and after shampoo use. The problem here is our lines are not so effective at a long time, Show the different results.                                                                                                                                    |   Help talk to the target base what their problem is. If you have that then you have this to take care and protect that hair over time!" (Customer Personas, Kim). Highlight this process. , Highights the build up (reference_Eskiin_WinningTranscripts)              |
+| 0:15-0:25 | "The problem isn't about the care you are taking. All the products and more cannot fix the water problems your having so why even try?! Time to see new benefits!"  | Do a short skit on the hair dresser and how it can become difficult to manage and do over time.    | The hook is a statement and has been proven out over time and needs to be fixed at once! The focus is about their hair and the target demogrpahic for it (BreakthroughAdvertising.pdf - Mechanization).                |
+| 0:26-0:35 | "I found Esikin! They filter with ease and are good looking"                | Do a install set up set. Take 2 mintues to show installation.  | This gives them good information to install.   Make install look as best and smooth as possible (the target demogrpahic for it is all easy (Customer Personas.  Kim)).           |
+| 0:36-0:45 |  "Let me tell you they also provide an auto ship where I never have to worry about my hair and now you can also try this today".            | Let's shot the amazing hair over the face and show its soft. Do a slow moving time laps to show hair transformation       | It is easy to take them with us along the way and then be able to make results from the product the right one  (the hair looks healthy and so the brand is also health) (eskiin Understanding Our Customer To Drive Growth.pdf) . |
+| 0:46-0:55 |  "This will do so much for you and your hair! Link to shop now"                                                                                      | Do a fast-moving close. Look sexy. Show a link now here to purchase at a discounted sale.         | High energy and close is that we need to shop to push people towards making a purchase decision and to make sure it is known what our shop and call to action is(REFERENCE_Eskiin_WinningTranscripts.docx).           |
+
+**2. Hook Variations**
+*   **Unique Visuals:**
+    *  Timelapse of hair slowly depleting in volume.
+    *  Show a picture of a woman crying on her hair loss, then zoom in show the happy hair.
+    *  Close-ups of the installation.
+*   **Unique Hook Headlines:**
+    *  "Hair Stylist here! These tips are going to make you famous"
+    *  "These Hair Tips are just the best thing that could ever be provided"
+    *  "I used these for many years, now is my turn to give them to you"
+
+**3. Debrief Analysis**
+*   **Script Name:** Eskiin_HairGrowthHacks
+*   **Hook Breakdown:**
+    *   **Hook 1:** Tell people about it and what is going on with hair
+    *   **Hook 2:** Show the product
+*   **Awareness Phase Breakdown:** Primarily for Solution Aware, to know how the demo for installation is going to have an effect (Customer Personas).
+*   **Ad Length:** 75 seconds
+*   **Ad Type:** UGC/Testimonial
+*   **Editing Style:** Professional Endorsement, advice
+*   **Call-To-Action (CTA):** "Shop Now"
+*   **Key Messaging:** Easy install, what to do to improve hair right now, what results to expect
+
+---
+**Brief 6:  Eskiin_TapToTetonAuthenticStory**
+*   **Elevator Pitch:** A story-drive telling on why the product was created.
+*   **Intended Length:** 65 seconds
+*   **Talent POV:** Male Employee Remote
+*   **Production Style:** A blend of documentary footage and product demo.
+*   **Editing Style:** Story driven and from nature
+*   **Problem/Solution Marketing Framework:** Must find out easy ways to take care
+*   **Brand Talking Points:** Rust and what is coming out, we made sure to find a good filter, good people created, we have trust, show what we use and how and why.
+*   **Intended Awareness Phase:** Unaware
+*   **Customer Persona:** all customers
+
+**1. Main Script in Table Format**
+
+| Time      | Audio                                                                                                                                                                                                   | Visuals                                                                                                                                                                                           | Reasoning & Source Document                                                                                                                                                                                  |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0:00-0:03 |"I wanted clean water and now I have it thanks to this 15-layered filter"          |  Have the remote be shown.        | Hook (TikTok Hooks Mastery.pdf) from a previous ad.                              |
+| 0:03-0:15 | " I wanted to create a video, come join me to the back roads of the Teton Mountains in Idaho because it will give a feeling of my home where the brand is really from for you"            | Zoom to a mountain setting of the Teton Mountain in Idaho.  Have that background be show. | That is now in the warehouse and it would be great to see what goes on. You are now seeing where it comes from (Customer Personas)  |
+| 0:15-0:25 | Here is a rusty pipe look like what you're showering with every day from old pipes | Show the inside of the water, Show some water rust problems.  | That is not going to allow you to have that high life (problem) at the right time, see more what comes. This video and image will allow people to understand it much better (BreakthroughAdvertising.pdf - Mechanization). |
+| 0:26-0:35 | "I may be remote and not the founder who makes this thing work, but what you can do is upgrade to Eskinn.  we filters everything!"              | That way our stuff is working and so that will be clean. Get it out and it also increases water so it really becomes a 2in1 show | Help sell it and let the process know and see that it is working real time! Easy to install (all target demogrpahic). (Wes_Winner_Non_Eskiin_JWS.txt)   |
+| 0:36-0:45 |  "You have so much to give from Esikin. I am not with him but there is so much to give!"                    | Have the show head glow as I am with the light now! | Let it glow  (eskiin Understanding Our Customer To Drive Growth.pdf)  |
+| 0:46-0:55 |  "Let's change your life so you can work and get a clean source of water. Click the link now!"                                                                      | Have mountains shot and let the scene fade away and then show.         | Make it a easy click (all target demogrpahic)!  (REFERENCE_Eskiin_WinningTranscripts.docx)            |
+
+**2. Hook Variations**
+*   **Unique Visuals:**
+    *   Person drinking mountain water then the opposite
+    *   Zoom out from mountain and show home use.
+    *   Show the process of product creation.
+*   **Unique Hook Headlines:**
+    *   "We found an easy way to get water everywhere?"
+    *   "Teton is so awesome it made me create this awesome stuff"
+    *   "Mountain Water? Lets show you"
+
+**3. Debrief Analysis**
+*   **Script Name:** Eskiin_TapToTetonAuthenticStory
+*   **Hook Breakdown:**
+    *   **Hook 1:**  Tell viewers and show it.
+    *   **Hook 2:** It was in the background
+    *   **Hook 3:** Show what it could be for life.
+*   **Awareness Phase Breakdown:** Primarily for problem and unaware (Customer Personas).
+*   **Ad Length:** 65 seconds
+*   **Ad Type:** UGC
+*   **Editing Style:** Real time
+*   **Call-To-Action (CTA):** Click to shop now
+*   **Key Messaging:** rust, we fix to what could be in the water for you to be fine.
+
+---
+
+**Brief 7: Eskiin_HairdresserInstallPower**
+*   **Elevator Pitch:** An experienced hairdresser shows you why you should get this.
+*   **Intended Length:** 75 seconds
+*   **Talent POV:** Female Influencer - Hair
+*   **Production Style:** UGC/Testimonial
+*   **Editing Style:** Professional Endorsement, advice
+*   **Problem/Solution Marketing Framework:** I solve this and have seen it so here is why
+*   **Brand Talking Points:** Easy install, high volume of clean, power and more to come!
+*   **Intended Awareness Phase:** primarily aware/solution.
+*   **Customer Persona:** all
+
+**1. Main Script in Table Format**
+
+| Time      | Audio                                                                                                                                                                                | Visuals                                                                                                                                                                                                                           | Reasoning & Source Document                                                                                                                                                                                                                                                                                                                            |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0:00-0:03 |  "Do you know why I always tell clients to have an Esikin? Here is why with 3 tips"      |  Show clean, and what the customer likes.                    | Let the customer know right now from here, they are going to get
