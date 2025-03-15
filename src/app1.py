@@ -1,5 +1,4 @@
 import streamlit as st
-import google.generativeai as genai
 import os
 import json
 from datetime import datetime
@@ -10,7 +9,7 @@ from typing import Dict, List, Union
 import docx
 import PyPDF2
 import tempfile
-from google.cloud import genai
+from google import genai
 import uuid
 
 # Load environment variables
