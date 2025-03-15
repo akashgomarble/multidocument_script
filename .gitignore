@@ -1,0 +1,43 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# Document folders content - ignore all files but keep the folders
+docs/product_description/*
+docs/best_practices/*
+docs/sample_scripts/*
+
+# Keep the folders themselves by adding a .gitkeep file in each
+!docs/product_description/.gitkeep
+!docs/best_practices/.gitkeep
+!docs/sample_scripts/.gitkeep
+
+# Results folder - generated scripts
+results/
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db 

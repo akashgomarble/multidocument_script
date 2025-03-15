@@ -63,10 +63,9 @@ if 'show_improved_script' not in st.session_state:
 class DocumentProcessor:
     def __init__(self):
         self.doc_categories = {
-            'marketing': Path('docs/marketing'),
-            'hooks': Path('docs/hooks'),
-            'scripts': Path('docs/scripts'),
-            'products': Path('docs/products')
+            'Product Description': Path('docs/product_description'),
+            'Best Practices': Path('docs/best_practices'),
+            'Sample Scripts': Path('docs/sample_scripts')
         }
         
     def read_text_file(self, file_path: Path) -> str:
@@ -129,6 +128,19 @@ class ScriptGenerator:
         self.default_prompt_template = """
 I need **10 performance marketing creative briefs** for Eskiin, with the following details:
 
+#### **Document Categories Used:**
+- **Product Description** - Contains in-depth details about the product, use cases, and customer personas
+- **Best Practices** - Contains marketing and creative best practices for script creation
+- **Sample Scripts** - Contains winning scripts that should be used as inspiration
+
+#### **Writing Style Requirements:**
+- Write in a natural, conversational human voice - avoid mechanical or AI-sounding language
+- Use varied sentence structures and natural transitions between ideas
+- Include casual language, contractions, and occasional colloquialisms where appropriate
+- Ensure perfect grammar, spelling, and punctuation
+- Create emotionally engaging content that resonates with the target audience
+- Avoid repetitive phrases, robotic structures, or overly formal language
+
 #### **Key Components for Each Brief:**
 1. **Elevator Pitch of Script Idea** – A concise summary of the ad's core message.
 2. **Intended Length** – Duration of the ad (30-90 seconds, max 3 mins).
@@ -166,6 +178,12 @@ I need **10 performance marketing creative briefs** for Eskiin, with the followi
 - **Each ad must include:**  
   - **Three unique hook headlines.**  
   - **Three unique scroll-stopping visuals.** 
+
+*Critical Note - Please give the reasoning behind the source documents and why they are used and which documents are used. Please give document wise reasoning and citations. Give reference in a proper format document name vrs reason and part of the document used.*  
+
+*Important: Use the Product Description documents to understand the product details, target audience, and use cases. Reference Best Practices documents for creative and marketing guidelines. Draw inspiration from Sample Scripts to create new, original scripts that follow proven patterns of success.*
+
+*Critical: The final scripts MUST read as if written by a skilled human copywriter. They should flow naturally, use varied sentence structures, and avoid any AI-like patterns or mechanical language. Double-check for perfect grammar and spelling. The scripts should feel authentic, conversational, and emotionally engaging - as if a creative professional wrote them specifically for this brand.Please give complete output don't skip anything.*
 """
         
     def generate_script(self, documents: Dict[str, List[Dict[str, str]]], custom_prompt_template: str = None) -> str:
@@ -231,6 +249,14 @@ Please improve the script based on this feedback. Consider the following documen
         prompt += """
 Generate an improved version of the script that addresses all the feedback points.
 Maintain the same structure but enhance the content according to the feedback.
+
+Writing Style Requirements:
+- Write in a natural, conversational human voice - avoid mechanical or AI-sounding language
+- Use varied sentence structures and natural transitions between ideas
+- Include casual language, contractions, and occasional colloquialisms where appropriate
+- Ensure perfect grammar, spelling, and punctuation
+- Create emotionally engaging content that resonates with the target audience
+- Avoid repetitive phrases, robotic structures, or overly formal language
 
 In your response, include:
 1. The improved script
@@ -517,7 +543,7 @@ def main():
                     feedback_submitted = st.button("Submit Feedback & Generate Improved Script")
                     if feedback_submitted:
                         process_feedback(generator, selected_model, custom_prompt if show_prompt_editor else None)
-                        st.experimental_rerun()
+                        st.rerun()
                 
             except Exception as e:
                 st.error(f"An error occurred: {str(e)}")
@@ -535,7 +561,7 @@ def main():
         feedback_submitted = st.button("Submit Feedback & Generate Improved Script")
         if feedback_submitted:
             process_feedback(generator, selected_model, custom_prompt if show_prompt_editor else None)
-            st.experimental_rerun()
+            st.rerun()
 
 if __name__ == "__main__":
     main()
