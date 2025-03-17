@@ -11,7 +11,7 @@ import PyPDF2
 import tempfile
 from google import genai
 import uuid
-
+from google.genai import types
 # Load environment variables
 load_dotenv()
 
@@ -126,7 +126,9 @@ class ScriptGenerator:
         self.model_config = model_config
         self.client = genai.Client(api_key=os.getenv('GOOGLE_API_KEY'))
         self.default_prompt_template = """
-I need **10 performance marketing creative briefs** for Eskiin, with the following details:
+
+
+I need **5 performance marketing creative briefs** for Eskiin, with the following details:
 
 #### **Document Categories Used:**
 - **Product Description** - Contains in-depth details about the product, use cases, and customer personas
@@ -179,11 +181,12 @@ I need **10 performance marketing creative briefs** for Eskiin, with the followi
   - **Three unique hook headlines.**  
   - **Three unique scroll-stopping visuals.** 
 
-*Critical Note - Please give the reasoning behind the source documents and why they are used and which documents are used. Please give document wise reasoning and citations. Give reference in a proper format document name vrs reason and part of the document used.*  
+*Critical Note - Please give the reasoning behind the source documents and why they are used and which documents are used. Please give document wise reasoning and citations and from which part which thing is taken. Give reference in a proper format document name versus reason and part of the document used in a proper format including page number if possible.*  
 
 *Important: Use the Product Description documents to understand the product details, target audience, and use cases. Reference Best Practices documents for creative and marketing guidelines. Draw inspiration from Sample Scripts to create new, original scripts that follow proven patterns of success.*
 
-*Critical: The final scripts MUST read as if written by a skilled human copywriter. They should flow naturally, use varied sentence structures, and avoid any AI-like patterns or mechanical language. Double-check for perfect grammar and spelling. The scripts should feel authentic, conversational, and emotionally engaging - as if a creative professional wrote them specifically for this brand.Please give complete output don't skip anything.*
+*Critical: The final scripts MUST read as if written by a skilled human copywriter. They should flow naturally, use varied sentence structures, and avoid any AI-like patterns or mechanical language. Double-check for perfect grammar and spelling. The scripts should feel authentic, conversational, and emotionally engaging - as if a creative professional wrote them specifically for this brand.Please give complete output don't skip anything. Please do not miss anything in output give all the briefs as needed in the template.*
+
 """
         
     def generate_script(self, documents: Dict[str, List[Dict[str, str]]], custom_prompt_template: str = None) -> str:
@@ -191,9 +194,36 @@ I need **10 performance marketing creative briefs** for Eskiin, with the followi
         prompt = self._create_prompt(documents, custom_prompt_template)
         
         try:
+
+            # contents = [
+            #     types.Content(
+            #         role="user",
+            #         parts=[
+            #             types.Part.from_text(text=prompt),
+            #         ],
+            #     ),
+            # ]
+            # generate_content_config = types.GenerateContentConfig(
+            #     temperature=0,
+            #     top_p=0.95,
+            #     top_k=64,
+            #     max_output_tokens=65536,
+            #     response_mime_type="text/plain",
+            # )
+
+            # response = self.client.models.generate_content_stream(
+            #     model=self.model_config['model_id'],
+            #     contents=contents,
+            #     config=generate_content_config,
+            # )
+            generate_content_config = types.GenerateContentConfig(
+                # temperature=0.5
+                max_output_tokens=1000000
+            )
             response = self.client.models.generate_content(
                 model=self.model_config['model_id'],
-                contents=prompt
+                contents=prompt,
+                config = generate_content_config
             )
             return response.text
         except Exception as e:
