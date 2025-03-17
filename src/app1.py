@@ -19,14 +19,14 @@ load_dotenv()
 AVAILABLE_MODELS = {
     'gemini-pro': {
         'name': 'Gemini Pro',
-        'model_id': 'gemini-pro',
-        'max_tokens': 30000,
+        'model_id': 'gemini-2.0-pro-exp-02-05',
+        'max_tokens': 1000000,
         'description': 'Best for general text generation and analysis'
     },
-    'gemini-pro-vision': {
-        'name': 'Gemini Pro Vision',
-        'model_id': 'gemini-pro-vision',
-        'max_tokens': 30000,
+    'gemini-flash-thinking': {
+        'name': 'Gemini Flash Thinking',
+        'model_id': 'gemini-2.0-flash-thinking-exp-01-21',
+        'max_tokens': 1000000,
         'description': 'Optimized for text and image analysis'
     },
     'gemini-2.0-flash': {
@@ -360,17 +360,28 @@ def main():
     
     # Model selection
     st.sidebar.header("Model Selection")
-    selected_model = st.sidebar.selectbox(
-        "Choose a model",
+    selected_models = st.sidebar.multiselect(
+        "Choose one or more models",
         options=list(AVAILABLE_MODELS.keys()),
+        default=[list(AVAILABLE_MODELS.keys())[0]],  # Default to first model
         format_func=lambda x: AVAILABLE_MODELS[x]['name']
     )
     
-    # Display model information
-    st.sidebar.markdown(f"**Max Tokens:** {AVAILABLE_MODELS[selected_model]['max_tokens']}")
+    # Ensure at least one model is selected
+  
+    if not selected_models:
+        st.sidebar.warning("Please select at least one model")
+        selected_models = [list(AVAILABLE_MODELS.keys())[0]]  # Default to first model if none selected
     
+    # Display selected models information
+    st.sidebar.subheader("Selected Models:")
+    for model_id in selected_models:
+        st.sidebar.markdown(f"**{AVAILABLE_MODELS[model_id]['name']}** - Max Tokens: {AVAILABLE_MODELS[model_id]['max_tokens']}")
+    
+    # Use the first selected model as the primary model for document processing
+    primary_model = selected_models[0]
     processor = DocumentProcessor()
-    generator = ScriptGenerator(AVAILABLE_MODELS[selected_model])
+    generator = ScriptGenerator(AVAILABLE_MODELS[primary_model])
     
     # File uploader for each category with multiple file support
     for category in processor.doc_categories.keys():
@@ -442,111 +453,123 @@ def main():
         st.session_state.show_improved_script = False
     
     # Generate initial script button
-    if st.button(f"Generate Script with {AVAILABLE_MODELS[selected_model]['name']}"):
-        with st.spinner(f"Analyzing documents and generating script using {AVAILABLE_MODELS[selected_model]['name']}..."):
-            try:
-                # Get all documents
-                documents = processor.get_documents_by_category()
-                
-                # Check if we have documents to process
-                total_docs = sum(len(docs) for docs in documents.values())
-                if total_docs == 0:
-                    st.warning("Please upload some documents first!")
-                    return
-                
-                # Generate the script with custom prompt if provided
-                script = generator.generate_script(documents, custom_prompt if show_prompt_editor else None)
-                
-                if script:
-                    # Display the generated script
-                    st.header(f"Generated Script ({AVAILABLE_MODELS[selected_model]['name']})")
-                    st.markdown(script)
-                    
-                    # Store in session state for feedback system
-                    st.session_state.current_script = script
-                    if 'current_session_id' in st.session_state:
-                        del st.session_state.current_session_id  # Start fresh session for new script
-                    
-                    # Save the generated script
-                    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-                    output_dir = Path("results") / selected_model
-                    output_dir.mkdir(parents=True, exist_ok=True)
-                    output_path = output_dir / f"generated_script_{timestamp}.txt"
-                    
-                    with open(output_path, 'w', encoding='utf-8') as f:
-                        f.write(script)
-                    
-                    # Add download button for the generated script
-                    st.download_button(
-                        label="Download Generated Script",
-                        data=script,
-                        file_name=f"generated_script_{timestamp}.txt",
-                        mime="text/plain"
-                    )
-                    
-                    st.success(f"Script saved to {output_path}")
-                    
-                    # Save metadata
-                    metadata = {
-                        'model': selected_model,
-                        'model_name': AVAILABLE_MODELS[selected_model]['name'],
-                        'timestamp': timestamp,
-                        'document_counts': {cat: len(docs) for cat, docs in documents.items()},
-                        'used_custom_prompt': show_prompt_editor
-                    }
-                    
-                    metadata_path = output_dir / f"metadata_{timestamp}.json"
-                    with open(metadata_path, 'w', encoding='utf-8') as f:
-                        json.dump(metadata, f, indent=2)
-                    
-                    # Display feedback system after script generation
-                    st.header("Script Feedback & Improvement System")
-                    st.write("Provide feedback to improve the generated script. You can submit multiple rounds of feedback.")
-                    
-                    # Display feedback history if available
-                    if st.session_state.feedback_history and 'current_session_id' in st.session_state:
-                        session_id = st.session_state.current_session_id
-                        if session_id in st.session_state.feedback_history:
-                            session_data = st.session_state.feedback_history[session_id]
+    if st.button(f"Generate Scripts with Selected Models"):
+        # Get all documents
+        documents = processor.get_documents_by_category()
+        
+        # Check if we have documents to process
+        total_docs = sum(len(docs) for docs in documents.values())
+        if total_docs == 0:
+            st.warning("Please upload some documents first!")
+            return
+        
+        # Create tabs for each model
+        model_tabs = st.tabs([AVAILABLE_MODELS[model_id]['name'] for model_id in selected_models])
+        
+        # Generate scripts for each selected model
+        for i, model_id in enumerate(selected_models):
+            with model_tabs[i]:
+                with st.spinner(f"Analyzing documents and generating script using {AVAILABLE_MODELS[model_id]['name']}..."):
+                    try:
+                        # Create generator for this model
+                        model_generator = ScriptGenerator(AVAILABLE_MODELS[model_id])
+                        
+                        # Generate the script with custom prompt if provided
+                        script = model_generator.generate_script(documents, custom_prompt if show_prompt_editor else None)
+                        
+                        if script:
+                            # Display the generated script
+                            st.header(f"Generated Script ({AVAILABLE_MODELS[model_id]['name']})")
+                            st.markdown(script)
                             
-                            # Show feedback iterations for current session
-                            if 'iterations' in session_data and session_data['iterations']:
-                                st.subheader("Previous Feedback Rounds")
-                                for i, iteration in enumerate(session_data['iterations']):
-                                    with st.expander(f"Feedback Round {i+1} - {iteration['timestamp']}"):
-                                        # Display structured feedback
-                                        feedback_data = iteration['feedback_data']
-                                        st.markdown(f"**Specific Feedback:** {feedback_data['specific_feedback']}")
+                            # Store in session state for feedback system
+                            if model_id == primary_model:
+                                st.session_state.current_script = script
+                                if 'current_session_id' in st.session_state:
+                                    del st.session_state.current_session_id  # Start fresh session for new script
+                            
+                            # Save the generated script
+                            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+                            output_dir = Path("results") / model_id
+                            output_dir.mkdir(parents=True, exist_ok=True)
+                            output_path = output_dir / f"generated_script_{timestamp}.txt"
+                            
+                            with open(output_path, 'w', encoding='utf-8') as f:
+                                f.write(script)
+                            
+                            # Add download button for the generated script
+                            st.download_button(
+                                label=f"Download Generated Script",
+                                data=script,
+                                file_name=f"generated_script_{model_id}_{timestamp}.txt",
+                                mime="text/plain"
+                            )
+                            
+                            st.success(f"Script saved to {output_path}")
+                            
+                            # Save metadata
+                            metadata = {
+                                'model': model_id,
+                                'model_name': AVAILABLE_MODELS[model_id]['name'],
+                                'timestamp': timestamp,
+                                'document_counts': {cat: len(docs) for cat, docs in documents.items()},
+                                'used_custom_prompt': show_prompt_editor
+                            }
+                            
+                            metadata_path = output_dir / f"metadata_{timestamp}.json"
+                            with open(metadata_path, 'w', encoding='utf-8') as f:
+                                json.dump(metadata, f, indent=2)
+                            
+                            # Only show feedback system for the primary model
+                            if model_id == primary_model:
+                                st.header("Script Feedback & Improvement System")
+                                st.write("Provide feedback to improve the generated script. You can submit multiple rounds of feedback.")
+                                
+                                # Display feedback history if available
+                                if st.session_state.feedback_history and 'current_session_id' in st.session_state:
+                                    session_id = st.session_state.current_session_id
+                                    if session_id in st.session_state.feedback_history:
+                                        session_data = st.session_state.feedback_history[session_id]
                                         
-                                        st.markdown("**Improved Script:**")
-                                        st.markdown(iteration['improved_script'])
-                                        
-                                        # Add button to download this version
-                                        st.download_button(
-                                            label=f"Download Version {i+1}",
-                                            data=iteration['improved_script'],
-                                            file_name=f"improved_script_v{i+1}.txt",
-                                            mime="text/plain",
-                                            key=f"download_{session_id}_{i}"
-                                        )
+                                        # Show feedback iterations for current session
+                                        if 'iterations' in session_data and session_data['iterations']:
+                                            st.subheader("Previous Feedback Rounds")
+                                            for i, iteration in enumerate(session_data['iterations']):
+                                                with st.expander(f"Feedback Round {i+1} - {iteration['timestamp']}"):
+                                                    # Display structured feedback
+                                                    feedback_data = iteration['feedback_data']
+                                                    st.markdown(f"**Specific Feedback:** {feedback_data['specific_feedback']}")
+                                                    
+                                                    st.markdown("**Improved Script:**")
+                                                    st.markdown(iteration['improved_script'])
+                                                    
+                                                    # Add button to download this version
+                                                    st.download_button(
+                                                        label=f"Download Version {i+1}",
+                                                        data=iteration['improved_script'],
+                                                        file_name=f"improved_script_v{i+1}.txt",
+                                                        mime="text/plain",
+                                                        key=f"download_{session_id}_{i}"
+                                                    )
+                                
+                                # Feedback form
+                                st.subheader("Provide Your Feedback")
+                                
+                                st.session_state.feedback_form['specific_feedback'] = st.text_area(
+                                    "What would you like to improve in this script?",
+                                    value=st.session_state.feedback_form['specific_feedback'],
+                                    height=150,
+                                    help="Provide detailed feedback on what to improve, add, or change in the script.",
+                                    key=f"feedback_text_{model_id}"
+                                )
+                                
+                                feedback_submitted = st.button("Submit Feedback & Generate Improved Script", key=f"feedback_button_{model_id}")
+                                if feedback_submitted:
+                                    process_feedback(generator, primary_model, custom_prompt if show_prompt_editor else None)
+                                    st.rerun()
                     
-                    # Feedback form
-                    st.subheader("Provide Your Feedback")
-                    
-                    st.session_state.feedback_form['specific_feedback'] = st.text_area(
-                        "What would you like to improve in this script?",
-                        value=st.session_state.feedback_form['specific_feedback'],
-                        height=150,
-                        help="Provide detailed feedback on what to improve, add, or change in the script."
-                    )
-                    
-                    feedback_submitted = st.button("Submit Feedback & Generate Improved Script")
-                    if feedback_submitted:
-                        process_feedback(generator, selected_model, custom_prompt if show_prompt_editor else None)
-                        st.rerun()
-                
-            except Exception as e:
-                st.error(f"An error occurred: {str(e)}")
+                    except Exception as e:
+                        st.error(f"An error occurred with {AVAILABLE_MODELS[model_id]['name']}: {str(e)}")
     
     # Show feedback form if we have a current script but not from the generate button flow
     elif st.session_state.current_script is not None:
@@ -560,7 +583,7 @@ def main():
         
         feedback_submitted = st.button("Submit Feedback & Generate Improved Script")
         if feedback_submitted:
-            process_feedback(generator, selected_model, custom_prompt if show_prompt_editor else None)
+            process_feedback(generator, primary_model, custom_prompt if show_prompt_editor else None)
             st.rerun()
 
 if __name__ == "__main__":

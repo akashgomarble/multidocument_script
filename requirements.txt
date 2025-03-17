@@ -10,3 +10,4 @@ google-cloud
 google.cloud
 google.genai
 google
+requests==2.31.0
